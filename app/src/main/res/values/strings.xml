@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Carpool Buddy</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string-array name="userTypes">
+        <item>alumni</item>
+        <item>parent</item>
+        <item>student</item>
+        <item>teacher</item>
+    </string-array>
 </resources>
